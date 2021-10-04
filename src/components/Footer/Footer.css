@@ -1,0 +1,20 @@
+.icons i {
+    font-size: 35px;
+    margin: 15px;
+    background-color: rgb(69, 71, 71);
+    border-radius: 5px;
+    color: rgb(184, 194, 199);
+}
+
+.footer-css {
+    background-color: rgb(33 37 41);
+    padding: 20px 0;
+}
+.footer-css h5,
+h1 {
+    color: aliceblue;
+}
+.footer-css p {
+    color: rgb(165, 165, 165);
+    margin-top: 15px;
+}

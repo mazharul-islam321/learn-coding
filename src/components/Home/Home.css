@@ -1,0 +1,15 @@
+.service-section {
+    margin: 20px 0;
+}
+.home-page-button {
+    margin: 20px 0;
+    padding: 10px;
+    border: 2px solid #ffc105;
+    border-radius: 5px;
+    background-color: white;
+    color: #ffc105;
+}
+.home-page-button:hover {
+    background-color: #ffc105;
+    color: black;
+}

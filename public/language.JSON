@@ -1,0 +1,86 @@
+[
+    {
+        "id": "34vhj4534",
+        "name": "JavaScript",
+        "price": 68,
+        "img": "https://www.geeksforgeeks.org/wp-content/uploads/javascript-768x256.png",
+        "description": "JavaScript is one of the most popular programming languages in the world Companies like Walmart, and PayPal run big internal applications around JavaScript."
+    },
+    {
+        "id": "3435gh48994",
+        "name": "python",
+        "price": 70,
+        "img": "https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
+        "description": "python powers millions of websites on the internet. Take this class to learn how to build dynamic web pages, handle form data, perform database calls, and much more!"
+    },
+    {
+        "id": "48994",
+        "name": "react",
+        "price": 60,
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+        "description": "What else do you expect from a JavaScript library that was developed by Facebook?if you don’t know build apps with React - then you’re falling behind the curve."
+    },
+    {
+        "id": "489fghfyt94",
+        "name": "Django",
+        "price": 65,
+        "img": "https://geekboots.sfo2.cdn.digitaloceanspaces.com/post/what-is-django-1564658746725.png",
+        "description": "A comprehensive, highly-practical, and step-by-step course that teaches you everything you need to know about Django from scratch."
+    },
+    {
+        "id": "489tyr94",
+        "name": "Node js",
+        "price": 70,
+        "img": "https://www.tutorialandexample.com/wp-content/uploads/2020/11/Node.js-Tutorial.jpeg",
+        "description": "Want to learn Node.js, but are tired of wordy and slow instructors who talk to you like you've never coded before? Then I have the perfect course for you."
+    },
+    {
+        "id": "48jhkj994",
+        "name": "Html Css",
+        "price": 30,
+        "img": "https://omborisymons.com/wp-content/uploads/2021/02/html2.jpg",
+        "description": "HTML is the building blocks of the web. It gives pages structure and applies meaning to content. Take this class to learn how it all works and create your own pages!"
+    },
+    {
+        "id": "489sfd94",
+        "name": "react native",
+        "price": 45,
+        "img": "https://www.filepicker.io/api/file/4C6yPDywSUeWYLyg1h9G",
+        "description": "Have an idea for an app but but been fearful of learning native mobile development?I hear you! Native development can be difficult."
+    },
+    {
+        "id": "489675fg94",
+        "name": "java",
+        "price": 53,
+        "img": "https://codersera.com/blog/wp-content/uploads/2021/09/java-.jpeg",
+        "description": "Java is a high-level, cross-platform, mature, object-oriented programming language. Java is extremely popular due to its flexibility and ability to run anywhere!"
+    },
+    {
+        "id": "48xvb65734994",
+        "name": "php",
+        "price": 40,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MTYj_BaaCJvs9Uf5uUo1SCVNhZTg3fzuDQ&usqp=CAU",
+        "description": "PHP powers millions of websites on the internet. Take this class to learn how to build dynamic web pages, handle form data, perform database calls, and much more!"
+    },
+    {
+        "id": "489ghg98xdh3494",
+        "name": "Vue",
+        "price": 55,
+        "img": "https://segwitz.com/wp-content/uploads/2021/06/vuejs-development-malaysia.jpeg",
+        "description": "The front-end development scene changes at a lightning pace. You don’t go too long without hearing about a new and upcoming JavaScript library that promises it is going to change everything. A few of them actually live up to their hype, like Google’s Angular and Facebook’s React. Others, not so much."
+    },
+    {
+        "id": "489gh4353gh3494",
+        "name": "Angular",
+        "price": 45,
+        "img": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/Copy-of-Copy-of-Travel-Photography.png",
+        "description": "Angular is one of the most popular frameworks for building client apps with HTML, CSS and TypeScript.Put simply, Angular is a must-have on your resume. Lucky for you, this course is a full-on, deep-dive into Angular that will give you the competitive edge you’re looking for."
+    },
+    {
+        "id": "489ghgkghh3494",
+        "name": "C++",
+        "price": 40,
+        "img": "https://www.startertutorials.com/blog/wp-content/uploads/2016/09/C_Plus_Plus_Progrramming_Language.jpg",
+        "description": "C# is a beautiful cross-platform language that can be used to build different kinds of apps: web apps, mobile apps, desktop apps, and games. The versatility of C# brings you a lot of career options.This course is the ideal starting point for anyone who wants to master the fundamentals of C#."
+    }
+]

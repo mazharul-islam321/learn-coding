@@ -1,0 +1,12 @@
+.about-section {
+    padding: 40px 0;
+}
+.avartar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.about-para {
+    margin: 15px auto;
+    width: 70%;
+}
