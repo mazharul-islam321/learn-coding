@@ -3,6 +3,7 @@ import useLanguage from "../../hooks/useLanguage";
 import { Card, Col, Container, Row } from "react-bootstrap";
 
 const Services = () => {
+    // using custom hook
     const [languages] = useLanguage();
     return (
         <div className="service-section">

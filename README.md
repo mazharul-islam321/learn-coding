@@ -1,6 +1,6 @@
-# This Is My Programming Related Website, Name, Learn Code
+# This Is My Programming Related Website, ( LEARN CODE )
 
-My project [Learn Code](https://github.com/facebook/create-react-app).
+My project [Learn Code](https://determined-einstein-21b832.netlify.app/).
 
 ## About this is course
 

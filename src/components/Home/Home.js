@@ -7,6 +7,7 @@ import Service from "../Service/Service";
 import "./Home.css";
 
 const Home = () => {
+    // using custom hook
     const [languages] = useLanguage();
     const newLanguages = languages.slice(0, 6);
 
@@ -15,6 +16,7 @@ const Home = () => {
             <div>
                 <LearningPath></LearningPath>
             </div>
+            {/* service section */}
             <div className="service-section">
                 <Container>
                     <Row>
@@ -28,6 +30,7 @@ const Home = () => {
                     </Row>
                 </Container>
             </div>
+            {/* button for redirect to services page */}
             <Link to={"/services"}>
                 <button className="home-page-button">see all courses</button>
             </Link>
